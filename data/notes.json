@@ -1,4 +1,88 @@
 {
+  "PSI1": {
+    "id": "PSI1",
+    "title": "WHAT IS COMMUNICATION?",
+    "summary": "Communication is the process through which two or more persons come to exchange ideas and understanding among them.",
+    "sections": [
+      {
+        "heading": "WHAT IS COMMUNICATION?",
+        "paragraphs": [
+          "The word communication has been derived from the Latin word 'communis' that means ‘common’. However, communication incorporates, besides commonality, the concepts of transfer, meaning and information.",
+          "“You cannot not communicate”.",
+          "This statement is quite often misunderstood by many of us. We may be fussy about the grammar of this sentence and that is at the cost of its spirit.",
+          "Communication can be defined as the process through which two or more persons come to exchange ideas and understanding among them."
+        ],
+        "list": []
+      },
+      {
+        "heading": "TWO ASPECTS IN COMMUNICATION",
+        "paragraphs": [
+          "There is something, which is transmitted, such as, facts, feelings, ideas, etc..It implies that there must be a receiver if communication is to occur.",
+          "The definition emphasizes the understanding element in the communication.Sharing of understanding would be possible only when the person, to whom the message is meant, understands it in the same sense in which the sender of the message wants him to understand."
+        ],
+        "list": []
+      },
+      {
+        "heading": "HOW DO WE DEFINE COMMUNICATION?",
+        "paragraphs": [],
+        "list": [
+          "T.S. Mathews – \"Communication is something so simple and difficult that we can never put it in simple words\".",
+          "Peter Little – “Communication is the process by which information is transmitted between individuals and / or organizations so that an understanding response results”.",
+          "W.H. Newman and C.F. Summer Jr. – “Communication is an exchange of facts, ideas, opinions, or emotions by two or more persons”."
+        ]
+      },
+      {
+        "heading": "IMPORTANCE OF COMMUNICATION",
+        "paragraphs": [
+          "Communication is as important to the organization as blood is to the body. Communication is a medium through which works being done in the organization can be explained, change can be affected, a feeling of cooperation can be caused by establishing uniformity among the works of various people working in the organization, clear human relations can be established and finally the objectives of the organization are realized.",
+          "“Good communication is the foundation of sound management.”.",
+          "The importance of communication in management can be understood through the following points:",
+          "“Communication is the life blood of business. No business can develop in the absence of effective internal and external communication.”."
+        ],
+        "list": [
+          "Basis of decision making – Much information has to be collected for decision making and for giving final shape to any idea. The information connected with decision making can be obtained only through communication.",
+          "Effective communication promotes spirit of cooperation and coordination – An atmosphere of mutual trust and confidence between employer and employee can be possible with the existence of effective communication.",
+          "Effective control – The managers get information about the work performance through communication on the basis of which they can improve upon the irregularities well in time.",
+          "Basis of Motivation – An efficient system of communication helps the managers in changing the point of view of the subordinates, raising their morale and presenting a basis of satisfaction.",
+          "Establishment of Effective Leadership – Leadership can not be imagined without effective communication."
+        ]
+      },
+      {
+        "heading": "Internal Communication or Within the Organization",
+        "paragraphs": [
+          "Effective internal communication is considered important for the following reasons:"
+        ],
+        "list": [
+          "Business size – Business has grown in size.",
+          "Business activity – Business activity has become extremely complex.",
+          "Spirit of cooperation – Effective communication promotes a spirit of understanding and cooperation."
+        ]
+      },
+      {
+        "heading": "External Communication",
+        "paragraphs": [
+          "External communication includes communication with the government agencies and departments on the one hand and distributors, retailers, individual customers and the general public on the other."
+        ],
+        "list": []
+      },
+      {
+        "heading": "Nature of Communication",
+        "paragraphs": [
+          "The importance of communication in business becomes even more apparent when we consider an organization's communication activities from an overall perspective."
+        ],
+        "list": []
+      },
+      {
+        "heading": "3 Categories of Communication",
+        "paragraphs": [],
+        "list": [
+          "Internal - Operational Communication – It consists of structured communication within the organization that directly relates to achieving the organization's work goals.",
+          "External - Operational Communication – Part of an organization's structured communication concerned with achieving the organization's work goals that is conducted with people and groups outside the organization.",
+          "Personal Communication – Personal communication is all the incidental exchange of information and feelings in which human beings engage whenever they come together."
+        ]
+      }
+    ]
+  },
   "Ps2": {
     "id": "Ps2",
     "title": "7 C’s of Effective Communication",
