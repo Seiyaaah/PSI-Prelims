@@ -1,0 +1,1225 @@
+{
+  "Ps1": [
+    {
+      "type": "identification",
+      "question": "What Latin word is the word communication derived from?",
+      "answer": "communis"
+    },
+    {
+      "type": "identification",
+      "question": "What does the Latin word 'communis' mean?",
+      "answer": "common"
+    },
+    {
+      "type": "identification",
+      "question": "Besides commonality, what three concepts does communication incorporate?",
+      "answer": "transfer, meaning and information"
+    },
+    {
+      "type": "identification",
+      "question": "What statement about communication is noted as being quite often misunderstood by many of us?",
+      "answer": "You cannot not communicate"
+    },
+    {
+      "type": "identification",
+      "question": "What is defined as the process through which two or more persons come to exchange ideas and understanding among them?",
+      "answer": "Communication"
+    },
+    {
+      "type": "identification",
+      "question": "What aspect of communication implies that there must be a receiver if communication is to occur?",
+      "answer": "Something transmitted"
+    },
+    {
+      "type": "identification",
+      "question": "What element of communication is emphasized as being possible only when the receiver understands the message in the same sense intended by the sender?",
+      "answer": "understanding element"
+    },
+    {
+      "type": "identification",
+      "question": "Who stated that communication is something so simple and difficult that we can never put it in simple words?",
+      "answer": "T.S. Mathews"
+    },
+    {
+      "type": "identification",
+      "question": "Whose definition states that communication is the process by which information is transmitted between individuals and / or organizations so that an understanding response results?",
+      "answer": "Peter Little"
+    },
+    {
+      "type": "identification",
+      "question": "Whose definition states that communication is an exchange of facts, ideas, opinions, or emotions by two or more persons?",
+      "answer": "W.H. Newman and C.F. Summer Jr."
+    },
+    {
+      "type": "identification",
+      "question": "To what bodily fluid is communication compared in terms of its importance to an organization?",
+      "answer": "blood"
+    },
+    {
+      "type": "identification",
+      "question": "What medium allows works being done in an organization to be explained and change to be affected?",
+      "answer": "Communication"
+    },
+    {
+      "type": "identification",
+      "question": "What is described as the foundation of sound management?",
+      "answer": "Good communication"
+    },
+    {
+      "type": "identification",
+      "question": "What must be collected for decision making and for giving final shape to any idea?",
+      "answer": "Much information"
+    },
+    {
+      "type": "identification",
+      "question": "What is promoted by effective communication to create an atmosphere of mutual trust and confidence between employer and employee?",
+      "answer": "spirit of cooperation and coordination"
+    },
+    {
+      "type": "identification",
+      "question": "Through what do managers get information about work performance on the basis of which they can improve upon irregularities well in time?",
+      "answer": "communication"
+    },
+    {
+      "type": "identification",
+      "question": "What management basis helps managers in changing the point of view of subordinates, raising their morale and presenting a basis of satisfaction?",
+      "answer": "Basis of Motivation"
+    },
+    {
+      "type": "identification",
+      "question": "What cannot be imagined without effective communication in an organization?",
+      "answer": "Leadership"
+    },
+    {
+      "type": "identification",
+      "question": "What is described as the life blood of business?",
+      "answer": "Communication"
+    },
+    {
+      "type": "identification",
+      "question": "What two factors have caused effective internal communication to be considered important regarding the growth and nature of a business?",
+      "answer": "Business size and business activity complexity"
+    },
+    {
+      "type": "identification",
+      "question": "What external entities include communication with government agencies and departments on one hand, and distributors, retailers, individual customers and the general public on the other?",
+      "answer": "External Communication"
+    },
+    {
+      "type": "identification",
+      "question": "What category consists of structured communication within the organization that directly relates to achieving the organization's work goals?",
+      "answer": "Internal - Operational Communication"
+    },
+    {
+      "type": "identification",
+      "question": "What category is part of an organization's structured communication concerned with achieving work goals conducted with people and groups outside the organization?",
+      "answer": "External - Operational Communication"
+    },
+    {
+      "type": "identification",
+      "question": "What category of communication is all the incidental exchange of information and feelings in which human beings engage whenever they come together?",
+      "answer": "Personal Communication"
+    },
+    {
+      "type": "identification",
+      "question": "What is defined as the passing of ideas and understanding from the sender to the target with the view to getting the desired behavioral response from the latter?",
+      "answer": "Objectives of Communication"
+    },
+    {
+      "type": "identification",
+      "question": "What presents insurmountable difficulties when trying to find out actual behavioral responses and comparing these with expected ones in an ongoing process?",
+      "answer": "Insurmountable Difficulties"
+    },
+    {
+      "type": "identification",
+      "question": "How many C's of effective communication are outlined in the study text?",
+      "answer": "7 C’s"
+    },
+    {
+      "type": "identification",
+      "question": "What principle of effective communication occurs when all relevant information has been sent by the sender after analyzing the receiver's mindset?",
+      "answer": "Completeness"
+    },
+    {
+      "type": "identification",
+      "question": "What principle of effective communication involves the use of accurate information in short sentences during interaction?",
+      "answer": "Conciseness"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword is associated with the conciseness principle of communication?",
+      "answer": "To the point"
+    },
+    {
+      "type": "identification",
+      "question": "What principle of effective communication gives due attention to the advantage of the receiver by respecting their mental perception and awareness?",
+      "answer": "Consideration"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword or focus phrase describes the consideration principle?",
+      "answer": "About people"
+    },
+    {
+      "type": "identification",
+      "question": "What principle refers to specifics where interaction is performed with preciseness or by referring to statistics?",
+      "answer": "Concreteness"
+    },
+    {
+      "type": "identification",
+      "question": "What principle has the goal to transfer your thoughts and ideas into the mind of the receiver using a simple, precise, and easy set of words?",
+      "answer": "Clarity"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword is associated with the clarity principle?",
+      "answer": "Simplicity"
+    },
+    {
+      "type": "identification",
+      "question": "What principle of communication involves polite words playing a prominent role in resolving disputes among people?",
+      "answer": "Courtesy"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword represents the courtesy principle?",
+      "answer": "Respect for Audience"
+    },
+    {
+      "type": "identification",
+      "question": "What principle refers to the factual accuracy of words used in communication between people or people communicating with organizations?",
+      "answer": "Correctness"
+    },
+    {
+      "type": "identification",
+      "question": "What keywords are associated with the correctness principle?",
+      "answer": "Facts or Proofread"
+    },
+    {
+      "type": "identification",
+      "question": "What type of communication requires the selection of correct words at the right time in both verbal and non-verbal forms?",
+      "answer": "Correctness"
+    },
+    {
+      "type": "identification",
+      "question": "What principle creates a long-lasting effect even if there is a difference of opinion between communicating individuals or organizations?",
+      "answer": "Courtesy"
+    },
+    {
+      "type": "identification",
+      "question": "What creates a pronounced effect on receivers as compared to general talks by referring to statistics or specific details?",
+      "answer": "Concreteness"
+    },
+    {
+      "type": "identification",
+      "question": "What principle focuses mainly on the needs, thoughts, and requirements of the receivers with a positive approach?",
+      "answer": "Consideration"
+    },
+    {
+      "type": "identification",
+      "question": "What outcome results from the completeness principle of communication?",
+      "answer": "effective communication with completeness of information"
+    },
+    {
+      "type": "identification",
+      "question": "What outcome is yielded from the provision of concise useful information during an interaction?",
+      "answer": "positive response from the audience"
+    },
+    {
+      "type": "identification",
+      "question": "What kind of interaction involves political leaders describing the needs and problems of the people to influence the targeted group?",
+      "answer": "Consideration"
+    },
+    {
+      "type": "identification",
+      "question": "What type of understanding must be shared between a sender and receiver for communication to occur successfully?",
+      "answer": "Sharing of understanding"
+    },
+    {
+      "type": "identification",
+      "question": "What specific business activity aspect has grown in size and become extremely complex, making internal communication important?",
+      "answer": "Business activity"
+    },
+    {
+      "type": "identification",
+      "question": "What is the primary role of polite words in communication when resolving disputes?",
+      "answer": "Resolving disputes"
+    },
+    {
+      "type": "identification",
+      "question": "What element must the sender analyze regarding the receiver's mindset to satisfy the completeness requirement?",
+      "answer": "Receiver's mindset"
+    },
+    {
+      "type": "true-false",
+      "question": "The word communication is derived from the Latin word 'communis', which translates to 'common'[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Communication incorporates exclusively commonality and excludes the concepts of transfer, meaning, and information[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "The statement 'You cannot not communicate' is frequently misunderstood by individuals who focus too much on its grammar at the cost of its spirit[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Communication is defined as the process through which two or more persons come to exchange ideas and understanding among them[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "The transmission aspect of communication implies that a receiver must exist for communication to occur[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Sharing of understanding in communication is possible even if the receiver understands the message in a different sense than what the sender intended[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "T.S. Mathews stated that communication is something so simple and difficult that we can never put it in simple words[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Peter Little defined communication as the process by which information is transmitted between individuals and/or organizations so that an understanding response results[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "W.H. Newman and C.F. Summer Jr. defined communication as an exchange of facts, ideas, opinions, or emotions by two or more persons[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Communication is considered as important to an organization as blood is to the body[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "According to the text, good communication is described as the foundation of sound management[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Works being done in an organization cannot be explained through communication[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "A feeling of cooperation can be caused by establishing uniformity among the works of various people working in the organization[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Clear human relations must be established to help realize the objectives of an organization[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Information connected with decision making can be obtained independently without the use of communication[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "Effective communication promotes an atmosphere of mutual trust and confidence between employers and employees[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Managers receive information about work performance through communication to improve upon irregularities well in time[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "An efficient system of communication helps managers change the point of view of subordinates and raise their morale[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Effective leadership can be easily imagined and maintained in the complete absence of effective communication[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "Communication is described as the life blood of business[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Businesses can develop normally even in the absence of effective internal and external communication[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "Effective internal communication is considered important partly because business has grown in size[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Business activity has become extremely complex, which makes effective internal communication important[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "External communication includes communication with government agencies and departments[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "External communication excludes interaction with distributors, retailers, and individual customers[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "The importance of communication in business becomes more apparent when considering an organization's communication activities from an overall perspective[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Internal-operational communication consists of structured communication within the organization that directly relates to achieving work goals[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "External-operational communication is conducted exclusively with individuals inside the organization[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "Personal communication refers to all the incidental exchange of information and feelings in which human beings engage whenever they come together[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Facts, feelings, and ideas are examples of things that can be transmitted during communication[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "The understanding element in communication is secondary and not emphasized by the definition[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "W.H. Newman and C.F. Summer Jr. defined communication as an exchange of facts, ideas, opinions, or emotions by two or more persons[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Change can be affected within an organization through communication[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Establishing uniformity among the works of various people causes a feeling of cooperation in the organization[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Objectives of an organization are realized without the help of communication[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "Much information has to be collected for giving final shape to any idea[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Mutual trust and confidence between employer and employee are possible with the existence of effective communication[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Managers rely on information about work performance to catch and improve upon irregularities well in time[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Raising the morale of subordinates can be supported by an efficient system of communication[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Internal communication promotes a spirit of understanding and cooperation[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "External communication includes communication with the general public[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "External-operational communication is part of an organization's structured communication concerned with achieving work goals[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Personal communication involves structured communication strictly related to achieving formal corporate work goals[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "The Latin root word for communication implies isolation rather than commonality[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "Communication incorporates the concept of meaning alongside transfer and information[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Grammatical perfection of the sentence 'You cannot not communicate' is more important than its underlying spirit according to the commentary[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "true-false",
+      "question": "Communication can occur between two or more persons to exchange ideas and understanding[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "The transmission aspect of communication requires that something like facts or feelings is transmitted[cite: 1].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "Leadership requires effective communication to be established[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 0
+    },
+    {
+      "type": "true-false",
+      "question": "The general public is completely excluded from any form of external communication channels mentioned in the text[cite: 3].",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the concepts incorporated by communication besides commonality, as derived from the text.",
+      "answer": ["transfer", "meaning", "information"]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the two aspects in communication explicitly mentioned in the text.",
+      "answer": ["Transmission", "Understanding"]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the authors who provided core definitions of communication in the text.",
+      "answer": ["T.S. Mathews", "Peter Little", "W.H. Newman and C.F. Summer Jr."]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the ways through which the importance of communication in management can be understood according to the specified points.",
+      "answer": [
+        "Basis of decision making",
+        "Effective communication promotes spirit of cooperation and coordination",
+        "Effective control",
+        "Basis of Motivation",
+        "Establishment of Effective Leadership"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the mediums or functions through which work, change, human relations, and organizational objectives are achieved as outlined in the importance of communication section.",
+      "answer": [
+        "works being done in the organization can be explained",
+        "change can be affected",
+        "a feeling of cooperation can be caused by establishing uniformity among the works of various people working in the organization",
+        "clear human relations can be established",
+        "the objectives of the organization are realized"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the reasons for which effective internal communication is considered important.",
+      "answer": [
+        "Business has grown in size.",
+        "Business activity has become extremely complex.",
+        "Effective communication promotes a spirit of understanding and cooperation."
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the groups and entities included in external communication on one hand and the other, as specified in the text.",
+      "answer": [
+        "government agencies and departments",
+        "distributors, retailers, individual customers and the general public"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the three categories of communication defined at the end of the text.",
+      "answer": [
+        "Internal - Operational Communication",
+        "External - Operational Communication",
+        "Personal Communication"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the examples of things that can be transmitted in communication as listed in the text.",
+      "answer": ["facts", "feelings", "ideas"]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the facts, ideas, opinions, or emotions exchanged by two or more persons according to the definition by W.H. Newman and C.F. Summer Jr.",
+      "answer": ["facts", "ideas", "opinions", "emotions"]
+    }
+  ],
+  "Ps2": [
+    {
+      "type": "identification",
+      "question": "What concept is defined as the passing of ideas and understanding from the sender to the target with the view to getting the desired behavioral response from the latter?",
+      "answer": "Objectives of communication"
+    },
+    {
+      "type": "identification",
+      "question": "What kind of difficulties are presented by finding out actual behavioral responses and comparing these with expected ones in a continuously on-going process?",
+      "answer": "Insurmountable difficulties"
+    },
+    {
+      "type": "identification",
+      "question": "What are the principles explained to effectively communicate so that the targeted group may understand the intended purpose?",
+      "answer": "7 C’s of effective communication"
+    },
+    {
+      "type": "identification",
+      "question": "What principles offer guidelines for individuals to learn how effectively they can influence people with their own or organizational agendas?",
+      "answer": "7 C’s of effective communication"
+    },
+    {
+      "type": "identification",
+      "question": "What principle of effective communication refers to communication where all relevant information has been sent after analyzing the receiver's mindset by ensuring no necessary information is missed?",
+      "answer": "Completeness"
+    },
+    {
+      "type": "identification",
+      "question": "What results in effective communication with completeness of information when the sender satisfies the receiver by answering relevant queries?",
+      "answer": "Completeness"
+    },
+    {
+      "type": "identification",
+      "question": "What principle involves the use of accurate information in short sentences during an interaction?",
+      "answer": "Conciseness"
+    },
+    {
+      "type": "identification",
+      "question": "What kind of audience response is yielded by the provisioning of concise useful information?",
+      "answer": "Positive response"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword is associated with conciseness?",
+      "answer": "To the point"
+    },
+    {
+      "type": "identification",
+      "question": "What principle refers to communication where the advantage of the receiver is given due attention by respecting their mental perception and awareness?",
+      "answer": "Consideration"
+    },
+    {
+      "type": "identification",
+      "question": "What principle of communication mainly focuses on the needs, thoughts, and requirements of the receivers with a positive approach?",
+      "answer": "Consideration"
+    },
+    {
+      "type": "identification",
+      "question": "Whose interaction with the public is given as an example of consideration?",
+      "answer": "Political leaders"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword is associated with consideration?",
+      "answer": "About people"
+    },
+    {
+      "type": "identification",
+      "question": "What principle refers to the specifics where interaction is performed with preciseness or by referring to statistics?",
+      "answer": "Concreteness"
+    },
+    {
+      "type": "identification",
+      "question": "What creates a pronounced effect on receivers as compared to general talks?",
+      "answer": "Concreteness"
+    },
+    {
+      "type": "identification",
+      "question": "Into whose mind is the endeavor of effective communication designed to transfer thoughts and ideas?",
+      "answer": "The receiver"
+    },
+    {
+      "type": "identification",
+      "question": "What principle of effective communication occurs when a simple, precise, and easy set of words are used to express the purpose without going into extensive interaction?",
+      "answer": "Clarity"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword is associated with clarity?",
+      "answer": "Simplicity"
+    },
+    {
+      "type": "identification",
+      "question": "What can play a prominent role in resolving disputes among people under courtesy?",
+      "answer": "A polite word"
+    },
+    {
+      "type": "identification",
+      "question": "What is very important for effective communication regarding the mentality and feelings of the receivers?",
+      "answer": "Understanding the mentality of receivers of information and their feelings towards the intended interaction"
+    },
+    {
+      "type": "identification",
+      "question": "What creates a long lasting effect even if there is a difference of opinion between communicating with people or organizations?",
+      "answer": "Courtesy"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword is associated with courtesy?",
+      "answer": "Respect for Audience"
+    },
+    {
+      "type": "identification",
+      "question": "What principle refers to the factual accuracy of words used in communication between people or people communicating with organizations?",
+      "answer": "Correctness"
+    },
+    {
+      "type": "identification",
+      "question": "In what type of communication is correctness important regarding the selection of correct words at the right time?",
+      "answer": "Both verbal and non-verbal communication"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword is associated with correctness?",
+      "answer": "Facts or Proofread"
+    },
+    {
+      "type": "identification",
+      "question": "What specific response from the target is viewed as the objective of communication?",
+      "answer": "Desired behavioral response"
+    },
+    {
+      "type": "identification",
+      "question": "What ongoing process presents insurmountable difficulties when trying to find out actual behavioral responses and compare them with expected ones?",
+      "answer": "Communication"
+    },
+    {
+      "type": "identification",
+      "question": "How many principles of effective communication are detailed as the 7 C's?",
+      "answer": "7"
+    },
+    {
+      "type": "identification",
+      "question": "What must the sender answer when the intellectual level of the receiver demands clarification?",
+      "answer": "Relevant queries"
+    },
+    {
+      "type": "identification",
+      "question": "Before sending all relevant information for completeness, what must the sender analyze?",
+      "answer": "Receiver’s mindset"
+    },
+    {
+      "type": "identification",
+      "question": "What will happen to communication if the sender fails to satisfy the receiver by answering relevant queries when clarification is demanded?",
+      "answer": "The communication will not be effective"
+    },
+    {
+      "type": "identification",
+      "question": "What kind of information is used in short sentences during a concise interaction?",
+      "answer": "Accurate information"
+    },
+    {
+      "type": "identification",
+      "question": "What kind of information provisioning is regarded as effective communication and yields a positive audience response?",
+      "answer": "Concise useful information"
+    },
+    {
+      "type": "identification",
+      "question": "What phrase serves as the keyword summary for conciseness?",
+      "answer": "To the point"
+    },
+    {
+      "type": "identification",
+      "question": "Under consideration, whose advantage is given due attention by respecting their mental perception and awareness?",
+      "answer": "The receiver"
+    },
+    {
+      "type": "identification",
+      "question": "What elements of the receivers does consideration mainly focus on with a positive approach?",
+      "answer": "Needs, thoughts and requirements"
+    },
+    {
+      "type": "identification",
+      "question": "In the example of consideration, whose needs and problems are described by political leaders?",
+      "answer": "The people"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword phrase represents consideration?",
+      "answer": "About people"
+    },
+    {
+      "type": "identification",
+      "question": "By referring to what does concreteness perform interaction with preciseness?",
+      "answer": "Statistics"
+    },
+    {
+      "type": "identification",
+      "question": "Compared to what do specifics create a pronounced effect on receivers under concreteness?",
+      "answer": "General talks"
+    },
+    {
+      "type": "identification",
+      "question": "What are you endeavoring to transfer into the mind of the receiver during effective communication?",
+      "answer": "Thoughts and ideas"
+    },
+    {
+      "type": "identification",
+      "question": "What can be expressed without going into extensive interaction when using a simple, precise, and easy set of words?",
+      "answer": "Purpose"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword represents clarity?",
+      "answer": "Simplicity"
+    },
+    {
+      "type": "identification",
+      "question": "What kind of word plays a prominent role in resolving disputes among people?",
+      "answer": "A polite word"
+    },
+    {
+      "type": "identification",
+      "question": "What psychological aspects of the receivers must be understood for effective communication under courtesy?",
+      "answer": "Mentality of receivers of information and their feelings towards the intended interaction"
+    },
+    {
+      "type": "identification",
+      "question": "What exists between communicating people or organizations that courtesy overcomes to create a long-lasting effect?",
+      "answer": "Difference of opinion"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword phrase represents courtesy?",
+      "answer": "Respect for Audience"
+    },
+    {
+      "type": "identification",
+      "question": "Correctness refers to the factual accuracy of words used in communication between people or between people communicating with whom?",
+      "answer": "Organizations"
+    },
+    {
+      "type": "identification",
+      "question": "What must be selected at the right time in both verbal and non-verbal communication for correctness?",
+      "answer": "Correct words"
+    },
+    {
+      "type": "identification",
+      "question": "What keyword option represents correctness?",
+      "answer": "Facts or Proofread"
+    },
+{
+"type": "true-false",
+"question": "The objective of communication can be defined as passing ideas and understanding from the sender to the target with the view to getting the desired behavioral response from the latter.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Finding out actual behavioral responses and comparing them with expected ones in a continuously ongoing process presents insurmountable difficulties.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The 7 C's of communication are principles explained to help the targeted group understand the intended purpose.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The 7 C's offer guidelines for individuals to learn how effectively they can influence people with their own or organizational agendas.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Completeness refers to a communication where all relevant information has been sent by the sender after analyzing the receiver's mindset.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "In completeness, ensuring no necessary information is missed during communication is a core requirement.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "If the intellectual level of the receiver demands clarification, the sender should be in a position to satisfy the receiver by answering relevant queries.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Answering relevant queries when a receiver demands clarification results in effective communication with completeness of information.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Communication will still be considered effective with completeness of information even if relevant queries are left unsatisfied.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Conciseness during interaction involves the use of accurate information in short sentences.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The provisioning of concise useful information is regarded as effective communication.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "When concise and useful information is provided, the response from the audience will also be positive.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The keyword associated with conciseness in the text is 'To the point'.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Consideration refers to communication where the advantage of the sender is given due attention.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Consideration involves respecting the mental perception and awareness of the receiver.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Consideration communication mainly focuses on the needs, thoughts, and requirements of the receivers with a positive approach.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The interaction of political leaders with the public is provided as an example of consideration because it describes the needs and problems of the people.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The keyword associated with consideration in the text is 'About people'.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Concreteness refers to specifics where interaction is performed with preciseness or by referring to statistics.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Concreteness creates a pronounced effect on receivers compared to general talks.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "An endeavor for effective clarity is to transfer thoughts and ideas into the mind of the receiver.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Clarity effectively occurs when a simple, precise, and easy set of words is used to express the purpose without going into extensive interaction.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The keyword associated with clarity in the text is 'Simplicity'.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "A polite word can play a prominent role in resolving disputes among people.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Understanding the mentality of receivers and their feelings towards the intended interaction is very important for effective communication.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Courtesy creates a long-lasting effect even if there is a difference of opinion between communicating people or organizations.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The keyword associated with courtesy in the text is 'Respect for Audience'.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Correctness refers to the factual accuracy of words used in communication between people or people communicating with organizations.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Correctness is important only in verbal communication and has no role in non-verbal communication.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "The selection of correct words at the right time is important for correctness in communication.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The keywords associated with correctness in the text are 'Facts or Proofread'.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The objective of communication involves passing ideas and understanding from the target back to the sender.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Finding out actual behavioral responses and comparing them with expected ones presents no difficulties in a continuous process.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "The 7 C's principles are designed to ensure that a targeted group cannot understand the intended purpose.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Completeness requires sending relevant information after analyzing the receiver's mindset.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Omitting necessary information during communication still satisfies the principle of completeness.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Conciseness relies on using long, complex sentences during an interaction.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Consideration focuses mainly on the sender's needs, thoughts, and requirements with a positive approach.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Political leaders interacting with the public to describe needs and problems directly influence the targeted group and play an emotional part.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Concreteness involves general talks rather than specifics or statistics.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Clarity aims to transfer thoughts and ideas into the mind of the receiver using a simple, precise, and easy set of words.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Extensive interaction is required for clarity to occur effectively according to the text.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Polite words play a prominent role in resolving disputes among people.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Understanding the mentality and feelings of receivers is unimportant for effective communication.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Courtesy fails to create a lasting effect when there is a difference of opinion.",
+"options": ["True", "False"],
+"answer": 1
+},
+{
+"type": "true-false",
+"question": "Correctness pertains to the factual accuracy of words used in communication.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Selecting correct words at the right time is explicitly highlighted as important for correctness.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "The 7 C's of communication include completeness, conciseness, consideration, concreteness, clarity, courtesy, and correctness.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "Analyzing the receiver's mindset ensures that no necessary information is missed during communication completeness.",
+"options": ["True", "False"],
+"answer": 0
+},
+{
+"type": "true-false",
+"question": "General talks create a more pronounced effect on receivers than concreteness with specifics or statistics.",
+"options": ["True", "False"],
+"answer": 1
+},
+    {
+      "type": "enumeration",
+      "question": "Enumerate the two purposes or principles for which the 7 C's of communication are explained.",
+      "answer": [
+        "Effectively communicate so that the targeted group may understand the intended purpose.",
+        "Offer guidelines for individuals to learn how effectively they can influence people with their own or organizational agendas."
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the seven elements that constitute the 7 C's of effective communication.",
+      "answer": [
+        "Completeness",
+        "Conciseness",
+        "Consideration",
+        "Concreteness",
+        "Clarity",
+        "Courtesy",
+        "Correctness"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the three elements that receivers' needs, thoughts, and requirements mainly focus on under consideration with a positive approach.",
+      "answer": [
+        "Needs",
+        "Thoughts",
+        "Requirements"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the two aspects or forms of communication in which correctness is stated to be important.",
+      "answer": [
+        "Verbal communication",
+        "Non-verbal communication"
+      ]
+    },
+    {
+      "type": "enumeration",
+      "question": "Enumerate the two types of entities between which correctness refers to the factual accuracy of words used in communication.",
+      "answer": [
+        "People",
+        "Organizations"
+      ]
+    }
+  ]
+}
